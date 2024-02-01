@@ -21,7 +21,7 @@
 <img alt="styed-component" src="https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/ef6d2653-0814-464d-9c45-dd7fe9ecc348" width="50" height="50">
 <img alt="shadcn-ui" src="https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/227d40ed-f509-46b6-a8c8-7c44ec086864" width="50" height="50">
 
-## Database
+### Database
 <img alt="prisma" src="https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/49b1240c-89b6-465f-bdeb-8e0b84b65c13&style=for-the-badge" width="50" height="50">
 
 <!--
