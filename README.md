@@ -6,8 +6,7 @@
 # What Can I Do
 ***
 ### Frontend
-![react-color](https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/db291ccb-0431-4901-b4f9-6948a01cedbe)
-<img alt="react" src="https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/db291ccb-0431-4901-b4f9-6948a01cedbe" width="20" height="20">
+<img alt="react" src="https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/db291ccb-0431-4901-b4f9-6948a01cedbe" width="50" height="50">
 
 
 
