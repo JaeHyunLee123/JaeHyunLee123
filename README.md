@@ -2,6 +2,8 @@
 안녕하세요, 프론트엔드 개발자를 희망하고 있는 대학생입니다.
 현재 행정학과 소프트웨어학을 복수전공하고 있습니다.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyunLee123&show_icons=true&theme=radical)
+
 # What Can I Do
 ### Langauge
 <img alt="javascript" src="https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/ab127aa2-1f70-41f2-9e4b-9ca2baa608c0" width="50" height="50">
@@ -22,7 +24,6 @@
 ## Database
 <img alt="prisma" src="https://github.com/JaeHyunLee123/JaeHyunLee123/assets/104538469/49b1240c-89b6-465f-bdeb-8e0b84b65c13&style=for-the-badge" width="50" height="50">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyunLee123&show_icons=true&theme=radical)
 <!--
 **JaeHyunLee123/JaeHyunLee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
